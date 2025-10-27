@@ -1,0 +1,51 @@
+incident_id,title,severity,status,reported_date,analyst_id,student_fullname
+1,Incident 1,Low,Closed,2025-06-18 23:38:59,20,Roland Laval Mathieu Baba
+2,Incident 2,High,Closed,2025-10-20 03:27:01,44,Roland Laval Mathieu Baba
+3,Incident 3,Medium,Closed,2025-08-02 17:42:03,12,Roland Laval Mathieu Baba
+4,Incident 4,High,In Progress,2025-08-26 03:11:16,19,Roland Laval Mathieu Baba
+5,Incident 5,High,Open,2025-06-06 13:52:52,32,Roland Laval Mathieu Baba
+6,Incident 6,Medium,Open,2025-07-06 20:58:47,34,Roland Laval Mathieu Baba
+7,Incident 7,Medium,Open,2025-10-20 18:16:27,13,Roland Laval Mathieu Baba
+8,Incident 8,Low,Closed,2025-03-10 23:08:10,36,Roland Laval Mathieu Baba
+9,Incident 9,Medium,In Progress,2025-10-15 09:08:09,13,Roland Laval Mathieu Baba
+10,Incident 10,High,In Progress,2025-06-11 11:12:24,30,Roland Laval Mathieu Baba
+11,Incident 11,High,Closed,2025-03-04 11:03:52,33,Roland Laval Mathieu Baba
+12,Incident 12,High,Open,2025-07-08 08:19:32,1,Roland Laval Mathieu Baba
+13,Incident 13,Medium,In Progress,2025-04-11 22:19:37,27,Roland Laval Mathieu Baba
+14,Incident 14,Medium,Closed,2025-02-01 03:29:20,42,Roland Laval Mathieu Baba
+15,Incident 15,Medium,In Progress,2025-08-06 08:27:15,10,Roland Laval Mathieu Baba
+16,Incident 16,Low,Closed,2025-09-26 22:46:54,21,Roland Laval Mathieu Baba
+17,Incident 17,Medium,Closed,2025-09-03 09:00:04,44,Roland Laval Mathieu Baba
+18,Incident 18,Medium,Closed,2025-05-31 19:03:31,7,Roland Laval Mathieu Baba
+19,Incident 19,Medium,In Progress,2025-05-19 13:42:20,34,Roland Laval Mathieu Baba
+20,Incident 20,High,Closed,2025-09-23 09:42:03,16,Roland Laval Mathieu Baba
+21,Incident 21,High,Open,2025-06-09 19:21:16,3,Roland Laval Mathieu Baba
+22,Incident 22,Medium,Open,2025-02-01 19:32:31,28,Roland Laval Mathieu Baba
+23,Incident 23,Low,Closed,2025-10-03 01:33:42,18,Roland Laval Mathieu Baba
+24,Incident 24,High,In Progress,2025-02-24 19:32:50,29,Roland Laval Mathieu Baba
+25,Incident 25,Medium,Open,2025-02-27 22:03:30,22,Roland Laval Mathieu Baba
+26,Incident 26,Medium,In Progress,2025-01-09 13:05:24,20,Roland Laval Mathieu Baba
+27,Incident 27,Low,In Progress,2025-08-22 12:51:29,31,Roland Laval Mathieu Baba
+28,Incident 28,Medium,In Progress,2025-06-04 01:06:48,36,Roland Laval Mathieu Baba
+29,Incident 29,Low,Open,2025-04-20 05:17:24,1,Roland Laval Mathieu Baba
+30,Incident 30,High,Open,2025-09-06 06:26:31,15,Roland Laval Mathieu Baba
+31,Incident 31,High,Closed,2025-04-26 03:26:16,18,Roland Laval Mathieu Baba
+32,Incident 32,High,In Progress,2025-03-30 10:44:39,18,Roland Laval Mathieu Baba
+33,Incident 33,Low,In Progress,2025-02-21 02:01:11,36,Roland Laval Mathieu Baba
+34,Incident 34,Low,In Progress,2025-10-16 23:19:23,36,Roland Laval Mathieu Baba
+35,Incident 35,Low,Closed,2025-07-28 20:17:22,5,Roland Laval Mathieu Baba
+36,Incident 36,Medium,In Progress,2025-06-05 05:03:18,33,Roland Laval Mathieu Baba
+37,Incident 37,Low,In Progress,2025-05-14 12:54:52,5,Roland Laval Mathieu Baba
+38,Incident 38,Low,Open,2025-04-24 00:53:49,6,Roland Laval Mathieu Baba
+39,Incident 39,High,Closed,2025-06-06 20:42:30,2,Roland Laval Mathieu Baba
+40,Incident 40,High,Closed,2025-05-08 22:17:50,36,Roland Laval Mathieu Baba
+41,Incident 41,Low,In Progress,2025-03-23 06:51:22,18,Roland Laval Mathieu Baba
+42,Incident 42,Low,Closed,2025-01-28 13:13:41,38,Roland Laval Mathieu Baba
+43,Incident 43,Medium,In Progress,2025-01-01 03:28:37,12,Roland Laval Mathieu Baba
+44,Incident 44,Medium,In Progress,2025-10-26 11:07:37,12,Roland Laval Mathieu Baba
+45,Incident 45,Low,Closed,2025-09-23 22:20:35,14,Roland Laval Mathieu Baba
+46,Incident 46,Medium,Open,2025-07-23 20:07:10,1,Roland Laval Mathieu Baba
+47,Incident 47,High,Closed,2025-03-11 13:24:26,40,Roland Laval Mathieu Baba
+48,Incident 48,Low,Open,2025-09-28 16:07:23,11,Roland Laval Mathieu Baba
+49,Incident 49,Low,Open,2025-02-15 10:46:48,12,Roland Laval Mathieu Baba
+50,Incident 50,Medium,Open,2025-07-21 18:34:33,46,Roland Laval Mathieu Baba

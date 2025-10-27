@@ -1,0 +1,51 @@
+system_id,name,owner,os,ip_adress,student_fullname
+1,System 1,Nunez PLC>,Windows Server,92.38.241.253,Roland Laval Mathieu Baba
+2,System 2,Porter PLC>,Linux,170.202.230.11,Roland Laval Mathieu Baba
+3,System 3,"Castro, Gonzalez and Harris<",macOS,206.66.197.114,Roland Laval Mathieu Baba
+4,System 4,Jones-Walton<,macOS,12.218.130.109,Roland Laval Mathieu Baba
+5,System 5,Johnson Inc/,Linux,195.164.110.133,Roland Laval Mathieu Baba
+6,System 6,Wood LLC/,macOS,186.247.231.148,Roland Laval Mathieu Baba
+7,System 7,"Watson, Thompson and Taylor>",Linux,77.225.213.181,Roland Laval Mathieu Baba
+8,System 8,Manning-White/,Linux,174.134.117.130,Roland Laval Mathieu Baba
+9,System 9,Farrell Ltd/,macOS,89.144.217.44,Roland Laval Mathieu Baba
+10,System 10,"Goodwin, Donaldson and Reyes<",Windows Server,116.183.59.76,Roland Laval Mathieu Baba
+11,System 11,Blanchard Group>,Windows Server,114.112.95.161,Roland Laval Mathieu Baba
+12,System 12,"Mathews, Joseph and Phillips>",Windows Server,87.183.82.114,Roland Laval Mathieu Baba
+13,System 13,"Martin, Berry and Bell>",macOS,64.75.219.118,Roland Laval Mathieu Baba
+14,System 14,"Bowman, Allen and Silva<",Linux,177.248.114.141,Roland Laval Mathieu Baba
+15,System 15,"Rasmussen, Hendricks and Reeves>",Linux,126.217.234.32,Roland Laval Mathieu Baba
+16,System 16,"Coleman, Rivera and Shaw>",Linux,70.33.76.209,Roland Laval Mathieu Baba
+17,System 17,Lane-Christian>,macOS,4.133.0.161,Roland Laval Mathieu Baba
+18,System 18,Dean-Washington>,macOS,146.11.128.77,Roland Laval Mathieu Baba
+19,System 19,"Ward, Scott and Curtis>",Linux,98.121.106.118,Roland Laval Mathieu Baba
+20,System 20,"Cooper, Lawrence and Cohen<",macOS,164.47.133.205,Roland Laval Mathieu Baba
+21,System 21,Smith-Hawkins<,macOS,119.231.138.5,Roland Laval Mathieu Baba
+22,System 22,Mckenzie Ltd/,Linux,100.137.35.53,Roland Laval Mathieu Baba
+23,System 23,Gardner LLC>,Linux,110.191.21.188,Roland Laval Mathieu Baba
+24,System 24,"Matthews, Castillo and Pennington>",macOS,126.142.142.71,Roland Laval Mathieu Baba
+25,System 25,Dawson-Alvarez/,Windows Server,13.231.204.166,Roland Laval Mathieu Baba
+26,System 26,Fitzgerald LLC<,macOS,165.156.50.60,Roland Laval Mathieu Baba
+27,System 27,"Mitchell, Herman and Wilson/",macOS,163.183.95.49,Roland Laval Mathieu Baba
+28,System 28,"Solomon, Rojas and Horton<",macOS,187.7.247.187,Roland Laval Mathieu Baba
+29,System 29,"Holt, Reynolds and Hernandez<",Windows Server,55.56.100.182,Roland Laval Mathieu Baba
+30,System 30,"Mcintosh, Richmond and Miller>",macOS,46.182.67.96,Roland Laval Mathieu Baba
+31,System 31,Carney LLC>,macOS,58.90.123.88,Roland Laval Mathieu Baba
+32,System 32,Rosario-Dickson>,macOS,107.67.64.217,Roland Laval Mathieu Baba
+33,System 33,Cooley-Rodriguez>,Windows Server,169.202.12.44,Roland Laval Mathieu Baba
+34,System 34,"Richards, Scott and Mcclure<",Linux,7.38.227.59,Roland Laval Mathieu Baba
+35,System 35,Baker PLC/,macOS,39.12.195.35,Roland Laval Mathieu Baba
+36,System 36,Garza Ltd<,macOS,205.156.158.117,Roland Laval Mathieu Baba
+37,System 37,Jensen Group/,Windows Server,150.214.25.249,Roland Laval Mathieu Baba
+38,System 38,"Cole, Singh and Rodgers/",Linux,55.112.96.157,Roland Laval Mathieu Baba
+39,System 39,Lambert Inc>,macOS,22.183.249.70,Roland Laval Mathieu Baba
+40,System 40,Walsh-Cole/,macOS,80.13.55.184,Roland Laval Mathieu Baba
+41,System 41,Gillespie Ltd/,macOS,156.131.79.46,Roland Laval Mathieu Baba
+42,System 42,Baldwin Group>,Windows Server,112.58.57.41,Roland Laval Mathieu Baba
+43,System 43,Tapia-Garcia/,Linux,142.231.113.151,Roland Laval Mathieu Baba
+44,System 44,"Fox, White and Meadows<",Linux,49.155.147.232,Roland Laval Mathieu Baba
+45,System 45,Bean and Sons/,Linux,88.41.228.16,Roland Laval Mathieu Baba
+46,System 46,"Fox, Russell and Miller>",Windows Server,181.136.165.73,Roland Laval Mathieu Baba
+47,System 47,Drake PLC>,Windows Server,27.83.220.252,Roland Laval Mathieu Baba
+48,System 48,Smith-Gallagher<,Linux,217.180.57.78,Roland Laval Mathieu Baba
+49,System 49,"Gilbert, Adams and Bennett<",macOS,117.136.79.202,Roland Laval Mathieu Baba
+50,System 50,Wilson Group<,Windows Server,98.82.221.237,Roland Laval Mathieu Baba
