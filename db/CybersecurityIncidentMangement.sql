@@ -60,7 +60,7 @@ CREATE TABLE Vulnerabilities (
 
 DELETE FROM Analysts
 
-SELECT * FROM IncidentThreats
+SELECT * FROM Analysts
  
 -- Mettre à jour analyst_id avec des valeurs aléatoires entre 101 et 150
 UPDATE Vulnerabilities
@@ -79,5 +79,9 @@ BEGIN
 
     SET @i = @i + 1;
 END;
+
+-- Duplique 10 lignes au hasard de la table Analysts
+INSERT INTO Analysts (name, email, role, expertise,student_fullname)
+SELECT TOP 10 name, email, role, expertise, student_fullname FROM Analysts ORDER BY NEWID();  
 
 
