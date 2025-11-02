@@ -15,7 +15,18 @@ USE master;
 GO
 
 RESTORE DATABASE CybersecurityIncidentManagementDB
-FROM DISK = 'C:\Backups\CybersecurityIncidentManagementDB.bak'
+FROM DISK = 'C:\Users\Mathieu\Desktop\Projets\Projet BBD Cybersécurité\db\CybersecurityIncidentManagementDB.bak'
 WITH REPLACE;  -- remplace la base existante
 GO
+
+-- Mettre la base en single user
+ALTER DATABASE CybersecurityIncidentManagementDB
+SET SINGLE_USER
+WITH ROLLBACK IMMEDIATE;
+
+-- Remettre la base en multi user
+ALTER DATABASE CybersecurityIncidentManagementDB
+SET MULTI_USER;
+
+
 
